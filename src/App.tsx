@@ -3,7 +3,7 @@ import { Button, ButtonGroup } from "@nextui-org/button"
 const App = () => {
   return (
     <div>
-      <Button color="primary">Button</Button>
+      <Button color="primary">123</Button>
     </div>
   )
 }
